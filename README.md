@@ -5,9 +5,15 @@ Download Run PHP Code
 To run PHP code locally
 
 Extract the Run PHP Code files into /xampp/htdocs/
+
 Goto the specified folder or directory where php files are present.
+
 Ensure you server is running
+
 Run localhost/<path of your file>/name of your file
+    
 http://localhost/lsapp/public/index.php#
+    
  Run PHP Code from 127.0.0.1. 
+    
 This application is meant to be run locally and should not be made publicly accessible.
